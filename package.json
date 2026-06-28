@@ -1,0 +1,24 @@
+{
+  "name": "multi-sport-3d",
+  "version": "1.0.0",
+  "description": "A polished 3D multi-sport game featuring Football, Swimming, Tennis, and Soccer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo No linter configured"
+  },
+  "keywords": [
+    "game",
+    "3d",
+    "sports",
+    "three.js"
+  ],
+  "author": "Alexander Murphy",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.164.1",
+    "vite": "^5.4.19"
+  }
+}
